@@ -1,0 +1,8 @@
+.title {
+  border: 5px solid blue;
+  border-radius: 15px;
+}
+
+.paragraph {
+  border: 3px dotted green;
+}
